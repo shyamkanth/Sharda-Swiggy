@@ -1,0 +1,8 @@
+id,restaurant_id,name,price
+1,1,Dish 1,100.0
+2,1,Dish 2,150.0
+3,2,Dish 3,120.0
+4,2,Dish 4,200.0
+5,2,Dish 5,180.0
+6,3,Dish 6,200.0
+7,3,Dish 7,250.0
